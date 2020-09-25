@@ -1,6 +1,7 @@
 package model;
 
 public class CalculateSimpleInterest {
+	//Ruth McGee
 	private double principalAmt;
 	private double annualInterestRatePrcnt;
 	private int yearsCount;
